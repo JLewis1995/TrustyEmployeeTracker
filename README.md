@@ -1,3 +1,4 @@
+# Please note - new repo had to be made to ensure data security. many commits were lost due to this.
 # Trusty Employee Tracker!
   
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
