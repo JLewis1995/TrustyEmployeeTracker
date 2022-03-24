@@ -1,0 +1,26 @@
+{
+  "name": "trusty-employee-tracker",
+  "version": "1.0.0",
+  "description": "Company tracking tool - employees, roles and departments.",
+  "main": "server.js",
+  "scripts": {
+    "test": "none",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JLewis1995/TrustyEmployeeTracker.git"
+  },
+  "author": "Jacob Lewis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JLewis1995/TrustyEmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/JLewis1995/TrustyEmployeeTracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.17.3",
+    "inquirer": "^8.2.1",
+    "mysql2": "^2.3.3"
+  }
+}
