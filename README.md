@@ -54,3 +54,4 @@ https://github.com/JLewis1995/TrustyEmployeeTracker
 
 https://youtu.be/7v3kePcnwYs
 
+![Example](./assets/example.PNG)
